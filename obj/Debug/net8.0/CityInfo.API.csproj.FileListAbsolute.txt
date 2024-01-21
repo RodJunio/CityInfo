@@ -62,3 +62,4 @@ E:\cursos\Pluralsight\c#\projetos\CityInfo.API\CityInfo\CityInfo.API\obj\Debug\n
 E:\cursos\Pluralsight\c#\projetos\CityInfo.API\CityInfo\CityInfo.API\obj\Debug\net8.0\CityInfo.API.pdb
 E:\cursos\Pluralsight\c#\projetos\CityInfo.API\CityInfo\CityInfo.API\obj\Debug\net8.0\CityInfo.API.genruntimeconfig.cache
 E:\cursos\Pluralsight\c#\projetos\CityInfo.API\CityInfo\CityInfo.API\obj\Debug\net8.0\ref\CityInfo.API.dll
+E:\cursos\Pluralsight\c#\projetos\CityInfo.API\CityInfo\CityInfo.API\obj\Debug\net8.0\CityInfo.API.sourcelink.json
